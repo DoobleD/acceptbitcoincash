@@ -1110,6 +1110,18 @@ websites:
   bch: true
   btc: true
   othercrypto: true
+- name: Zak Servers
+  url: https://www.zakservers.com
+  img: ZakServers.png
+  bch: false
+  btc: false
+  othercrypto: false
+  twitter: zakservers
+  facebook: zakservers
+  email_address: info@zakservers.com
+  doc: https://www.zakservers.com/index.php?rp=/announcements/2/Zak-Servers-has-started-to-accept-Bitcoin-as-a-payment-method.html
+  exceptions:
+    text: "No, Simply use the standard checkout procedure and choose bitcoin as a payment option"
 - name: Zion VPS
   url: https://zionvps.com/
   img: zionvpsllp.png
